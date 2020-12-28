@@ -140,5 +140,4 @@ class FaceView: UIView {
 		pathForBrow(eye:.Right).stroke()
 		pathForMouth().stroke()
 	}
-	
 }
